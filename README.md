@@ -4,6 +4,8 @@ De qualquer forma, publicamos essa coleção de tweets de forma a colaborar na c
 
 Para mais informação de como coletar dados do Twitter, consultar https://github.com/DocNow/twarc ou https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html. Sobre as mudanças recentes na plataforma, ver https://news.docnow.io/looking-forwards-64cee8436640. 
 
+Com o ID, é possível recuperar o tweets seguindo os passos seguintes: copiar e colar o endereço https://twitter.com/username/status/NUMERODEID no seu navegador e no número de ID colar o ID que se deseja buscar. Então a plataforma modifica o nome de usuário correspondente e rastreia a postagem solicitada.
+
 Coordenação do projeto: Alejandra Judith Josiowicz. Bolsistas de Iniciação Científica: Gabrielle Oliveira Sá, Vânia Rosa, Tainá Farias, Renê Bastos, Milene Couto. Bolsistas de extensão: Vitória Siqueira, Juliana Souza, Ana Clara Ozório. Mestranda: Ana Cristina Andrade. 
 
 Fontes e agradecimentos: Agradeço à Ed Summers pela ajuda na obtenção da Acesso Acadêmico à API do Twitter e indicação de fontes e ferramentas, como https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/10-Twitter.html e https://github.com/DocNow/twarc. Agradeço à Documenting the Now pelo apoio e guia no aprendizado dessas ferramentas através do Canal de SLACK do projeto. 
